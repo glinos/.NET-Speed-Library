@@ -1,0 +1,4 @@
+D:\Checkouts\SpeedLib\bin\Release\dotNetSpeedLib.dll
+D:\Checkouts\SpeedLib\bin\Release\dotNetSpeedLib.pdb
+D:\Checkouts\SpeedLib\dotNetSpeedLib\obj\Release\dotNetSpeedLib.dll
+D:\Checkouts\SpeedLib\dotNetSpeedLib\obj\Release\dotNetSpeedLib.pdb

@@ -1,0 +1,16 @@
+﻿Build started 10/29/2013 3:41:04 PM.
+     1>Project "D:\Checkouts\SpeedLib\NativeCode\NativeCode.vcxproj" on node 3 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D _WINDLL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt SpeedLib.cpp
+         SpeedLib.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Checkouts\SpeedLib\\bin\Release\NativeCode.dll" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Checkouts\SpeedLib\\bin\Release\NativeCode.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Checkouts\SpeedLib\\bin\Release\NativeCode.lib" /MACHINE:X86 /SAFESEH /DLL Release\SpeedLib.obj
+            Creating library D:\Checkouts\SpeedLib\\bin\Release\NativeCode.lib and object D:\Checkouts\SpeedLib\\bin\Release\NativeCode.exp
+         Generating code
+         Finished generating code
+         NativeCode.vcxproj -> D:\Checkouts\SpeedLib\\bin\Release\NativeCode.dll
+     1>Done Building Project "D:\Checkouts\SpeedLib\NativeCode\NativeCode.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.24
