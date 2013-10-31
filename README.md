@@ -7,7 +7,7 @@ A library of simple, common tasks written in C# (and C++) that are specifically 
 This is just an initial release and it only has one public function so far. More will be added soon.
 
 
-Available functions
-===================
+Available Functions
+-------------------
 
 String Reverse
