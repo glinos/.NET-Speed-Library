@@ -1,0 +1,1 @@
+extern "C" __declspec(dllexport) void __stdcall NativeBlockCopy(unsigned long*, unsigned long*, int);

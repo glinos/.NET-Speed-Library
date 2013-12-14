@@ -1,0 +1,16 @@
+﻿Build started 11/2/2013 10:49:12 PM.
+     1>Project "Z:\Software Development\Lab\BufferCopyTests\NativeCode\NativeCode.vcxproj" on node 3 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D _WINDLL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Native.cpp
+         Native.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"Z:\Software Development\Lab\BufferCopyTests\\bin\Release\NativeCode.dll" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"Z:\Software Development\Lab\BufferCopyTests\\bin\Release\NativeCode.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"Z:\Software Development\Lab\BufferCopyTests\\bin\Release\NativeCode.lib" /MACHINE:X86 /SAFESEH /DLL Release\Native.obj
+            Creating library Z:\Software Development\Lab\BufferCopyTests\\bin\Release\NativeCode.lib and object Z:\Software Development\Lab\BufferCopyTests\\bin\Release\NativeCode.exp
+         Generating code
+         Finished generating code
+         NativeCode.vcxproj -> Z:\Software Development\Lab\BufferCopyTests\\bin\Release\NativeCode.dll
+     1>Done Building Project "Z:\Software Development\Lab\BufferCopyTests\NativeCode\NativeCode.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.87

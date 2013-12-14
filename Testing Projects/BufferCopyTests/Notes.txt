@@ -1,0 +1,3 @@
+On my machine, the unsafe C# code is faster than .NET at 140 bytes or less.
+.NET is faster between 140 bytes to 300.
+Anything longer than 300, using C++ native code is faster.

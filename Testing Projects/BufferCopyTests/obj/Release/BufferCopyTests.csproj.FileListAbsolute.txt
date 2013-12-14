@@ -1,0 +1,9 @@
+Z:\Software Development\Lab\BufferCopyTests\bin\Release\BufferCopyTests.exe.config
+Z:\Software Development\Lab\BufferCopyTests\bin\Release\BufferCopyTests.exe
+Z:\Software Development\Lab\BufferCopyTests\bin\Release\BufferCopyTests.pdb
+Z:\Software Development\Lab\BufferCopyTests\obj\Release\BufferCopyTests.Form1.resources
+Z:\Software Development\Lab\BufferCopyTests\obj\Release\BufferCopyTests.Properties.Resources.resources
+Z:\Software Development\Lab\BufferCopyTests\obj\Release\BufferCopyTests.csproj.GenerateResource.Cache
+Z:\Software Development\Lab\BufferCopyTests\obj\Release\BufferCopyTests.exe
+Z:\Software Development\Lab\BufferCopyTests\obj\Release\BufferCopyTests.pdb
+Z:\Software Development\Lab\BufferCopyTests\obj\Release\BufferCopyTests.csprojResolveAssemblyReference.cache
